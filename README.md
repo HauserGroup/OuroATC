@@ -1,2 +1,2 @@
 # OuroATC
-Transform UK Biobank data to Use ATC format
+Transform UK Biobank data to use ATC format
